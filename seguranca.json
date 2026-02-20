@@ -1,0 +1,402 @@
+[
+  {
+    "RegistroID": 1,
+    "EquipamentoID": 1,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "80%"
+  },
+  {
+    "RegistroID": 2,
+    "EquipamentoID": 2,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 1,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 3,
+    "EquipamentoID": 3,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 3,
+    "EPIDisponivel": "80%"
+  },
+  {
+    "RegistroID": 4,
+    "EquipamentoID": 4,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "77%"
+  },
+  {
+    "RegistroID": 5,
+    "EquipamentoID": 5,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 2,
+    "EPIDisponivel": "90%"
+  },
+  {
+    "RegistroID": 6,
+    "EquipamentoID": 6,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 2,
+    "EPIDisponivel": "71%"
+  },
+  {
+    "RegistroID": 7,
+    "EquipamentoID": 7,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 1,
+    "EPIDisponivel": "81%"
+  },
+  {
+    "RegistroID": 8,
+    "EquipamentoID": 8,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 1,
+    "EPIDisponivel": "81%"
+  },
+  {
+    "RegistroID": 9,
+    "EquipamentoID": 9,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "96%"
+  },
+  {
+    "RegistroID": 10,
+    "EquipamentoID": 10,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 4,
+    "EPIDisponivel": "97%"
+  },
+  {
+    "RegistroID": 11,
+    "EquipamentoID": 11,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 2,
+    "EPIDisponivel": "99%"
+  },
+  {
+    "RegistroID": 12,
+    "EquipamentoID": 12,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 3,
+    "EPIDisponivel": "81%"
+  },
+  {
+    "RegistroID": 13,
+    "EquipamentoID": 13,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "74%"
+  },
+  {
+    "RegistroID": 14,
+    "EquipamentoID": 14,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 1,
+    "EPIDisponivel": "78%"
+  },
+  {
+    "RegistroID": 15,
+    "EquipamentoID": 15,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 4,
+    "EPIDisponivel": "94%"
+  },
+  {
+    "RegistroID": 16,
+    "EquipamentoID": 16,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 2,
+    "EPIDisponivel": "95%"
+  },
+  {
+    "RegistroID": 17,
+    "EquipamentoID": 17,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 1,
+    "EPIDisponivel": "71%"
+  },
+  {
+    "RegistroID": 18,
+    "EquipamentoID": 18,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 4,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 19,
+    "EquipamentoID": 19,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "84%"
+  },
+  {
+    "RegistroID": 20,
+    "EquipamentoID": 20,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 1,
+    "EPIDisponivel": "73%"
+  },
+  {
+    "RegistroID": 21,
+    "EquipamentoID": 21,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 2,
+    "EPIDisponivel": "75%"
+  },
+  {
+    "RegistroID": 22,
+    "EquipamentoID": 22,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 4,
+    "EPIDisponivel": "91%"
+  },
+  {
+    "RegistroID": 23,
+    "EquipamentoID": 23,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 2,
+    "EPIDisponivel": "95%"
+  },
+  {
+    "RegistroID": 24,
+    "EquipamentoID": 24,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 2,
+    "EPIDisponivel": "99%"
+  },
+  {
+    "RegistroID": 25,
+    "EquipamentoID": 25,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 3,
+    "EPIDisponivel": "85%"
+  },
+  {
+    "RegistroID": 26,
+    "EquipamentoID": 26,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 3,
+    "EPIDisponivel": "97%"
+  },
+  {
+    "RegistroID": 27,
+    "EquipamentoID": 27,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 4,
+    "EPIDisponivel": "90%"
+  },
+  {
+    "RegistroID": 28,
+    "EquipamentoID": 28,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 2,
+    "EPIDisponivel": "84%"
+  },
+  {
+    "RegistroID": 29,
+    "EquipamentoID": 29,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 1,
+    "EPIDisponivel": "97%"
+  },
+  {
+    "RegistroID": 30,
+    "EquipamentoID": 30,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 1,
+    "EPIDisponivel": "98%"
+  },
+  {
+    "RegistroID": 31,
+    "EquipamentoID": 31,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 1,
+    "EPIDisponivel": "94%"
+  },
+  {
+    "RegistroID": 32,
+    "EquipamentoID": 32,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "70%"
+  },
+  {
+    "RegistroID": 33,
+    "EquipamentoID": 33,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 3,
+    "EPIDisponivel": "88%"
+  },
+  {
+    "RegistroID": 34,
+    "EquipamentoID": 34,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 3,
+    "EPIDisponivel": "70%"
+  },
+  {
+    "RegistroID": 35,
+    "EquipamentoID": 35,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 2,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 36,
+    "EquipamentoID": 36,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 37,
+    "EquipamentoID": 37,
+    "Acidentes": 0,
+    "NearMisses": 1,
+    "Treinamentos": 1,
+    "EPIDisponivel": "85%"
+  },
+  {
+    "RegistroID": 38,
+    "EquipamentoID": 38,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 2,
+    "EPIDisponivel": "93%"
+  },
+  {
+    "RegistroID": 39,
+    "EquipamentoID": 39,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 4,
+    "EPIDisponivel": "77%"
+  },
+  {
+    "RegistroID": 40,
+    "EquipamentoID": 40,
+    "Acidentes": 1,
+    "NearMisses": 2,
+    "Treinamentos": 3,
+    "EPIDisponivel": "70%"
+  },
+  {
+    "RegistroID": 41,
+    "EquipamentoID": 41,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "83%"
+  },
+  {
+    "RegistroID": 42,
+    "EquipamentoID": 42,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 1,
+    "EPIDisponivel": "95%"
+  },
+  {
+    "RegistroID": 43,
+    "EquipamentoID": 43,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 2,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 44,
+    "EquipamentoID": 44,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "84%"
+  },
+  {
+    "RegistroID": 45,
+    "EquipamentoID": 45,
+    "Acidentes": 1,
+    "NearMisses": 1,
+    "Treinamentos": 4,
+    "EPIDisponivel": "82%"
+  },
+  {
+    "RegistroID": 46,
+    "EquipamentoID": 46,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 4,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 47,
+    "EquipamentoID": 47,
+    "Acidentes": 0,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "73%"
+  },
+  {
+    "RegistroID": 48,
+    "EquipamentoID": 48,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 3,
+    "EPIDisponivel": "76%"
+  },
+  {
+    "RegistroID": 49,
+    "EquipamentoID": 49,
+    "Acidentes": 0,
+    "NearMisses": 2,
+    "Treinamentos": 3,
+    "EPIDisponivel": "98%"
+  },
+  {
+    "RegistroID": 50,
+    "EquipamentoID": 50,
+    "Acidentes": 1,
+    "NearMisses": 0,
+    "Treinamentos": 4,
+    "EPIDisponivel": "76%"
+  }
+]
